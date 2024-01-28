@@ -1,6 +1,6 @@
 =====VerTu-Config=====
 
-Config zostały stworzone przez VerTu
+Configi zostały stworzone przez VerTu
 
 https://github.com/VerTu737
 
